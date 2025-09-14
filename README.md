@@ -32,6 +32,6 @@ Developer by day, gamer by heart. I build projects where performance meets creat
 ### 📊 **Github Stats**
 ![karssou's Stats](https://github-readme-stats.vercel.app/api?username=karssou&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![karssou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karssou&theme=vue-dark&hide_border=false)
-![karssou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karssou&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![karssou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karssou&theme=vue-dark&show_icons=true&hide_border=false)
 ---
 
