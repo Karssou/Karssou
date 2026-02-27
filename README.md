@@ -1,11 +1,11 @@
-# **Karssou** 👨‍💻
+# **Karssou**
 
 **Passionate developer blending performance and creativity.**
 I build **robust, scalable technical projects** where efficiency meets innovation. My approach combines a **developer’s rigor**, a **learner’s curiosity**, and a commitment to **reliable, inspiring solutions**.
 
 ---
 
-## 🚀 **About Me**
+## **About Me**
 
 - **Developer since 2018**, starting with **Unreal Engine 4.18**.
 - **Self-taught** since 2020, constantly exploring new technologies and best practices.
@@ -14,7 +14,7 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 
 ---
 
-## 🛠 **Technical Skills**
+## **Technical Skills**
 
 | Category       | Technologies & Tools                     |
 | -------------- | ---------------------------------------- |
