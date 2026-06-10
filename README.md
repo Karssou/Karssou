@@ -3,6 +3,8 @@
 **Passionate developer blending performance and creativity.**
 I build **robust, scalable technical projects** where efficiency meets innovation. My approach combines a **developer’s rigor**, a **learner’s curiosity**, and a commitment to **reliable, inspiring solutions**.
 
+[My Portfolio](https://alexandre-larue.fr)
+
 ---
 
 ## **About Me**
