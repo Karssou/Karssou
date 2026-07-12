@@ -29,7 +29,7 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 ## 🌍 **Languages**
 
 - **French**: Native
-- **English**: C2 (Intermediate)
+- **English**: C2 (Professionnal)
 - **Spanish**: A2 (Learning)
 
 ---
