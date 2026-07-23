@@ -4,7 +4,6 @@
 
 I build **robust, scalable technical projects** where efficiency meets innovation. My approach combines a **developer’s rigor**, a **learner’s curiosity**, and a commitment to **reliable, inspiring solutions**.
 
----
 
 ## **About Me**
 
@@ -12,7 +11,7 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 - **Self-taught** since 2020, constantly exploring new technologies and best practices from Web technologies to Software programming.
 - **Infrastructure-focused**, with a growing interest in **Cloud Engineering**, automation, **clean architecture** and **distributed systems**.
 
----
+
 
 ## **Technical Skills**
 
@@ -23,7 +22,6 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 | **Databases**  | PostgreSQL                               |
 | **Tools**      | VSCode, Postman, Docker, Linux           |
 
----
 
 ## 🌍 **Languages**
 
@@ -31,7 +29,6 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 - **English**: C2 (Professional)
 - **Spanish**: A2 (Learning)
 
----
 
 ## 🔗 Links
 
@@ -43,5 +40,3 @@ If you want to contact me for a project, follow theses links
 - LinkedIn: https://linkedin.com/in/alexandre-larue44
 - Malt: https://www.malt.fr/profile/alexandrelarue
 
-
----
