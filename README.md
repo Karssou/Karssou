@@ -37,6 +37,8 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 
 If you want to contact me for a project, follow theses links
 
+- Mail : contact@alexandre-larue.fr
+
 - Portfolio: https://alexandre-larue.fr
 - LinkedIn: https://linkedin.com/in/alexandre-larue44
 - Malt: https://www.malt.fr/profile/alexandrelarue
