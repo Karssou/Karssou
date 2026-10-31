@@ -12,7 +12,6 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 - **Infrastructure-focused**, with a growing interest in **Cloud Engineering**, automation, **clean architecture** and **distributed systems**.
 
 
-
 ## **Technical Skills**
 
 | Category       | Technologies & Tools                     |
@@ -26,7 +25,7 @@ I build **robust, scalable technical projects** where efficiency meets innovatio
 ## 🌍 **Languages**
 
 - **French**: Native
-- **English**: C2 (Professional)
+- **English**: C1 (Professional)
 - **Spanish**: A2 (Learning)
 
 
